@@ -1,0 +1,22 @@
+.sidebar__section {
+  padding: 0.5rem;
+  overflow-y: scroll;
+}
+
+.sidebar__section::-webkit-scrollbar {
+  display: none;
+}
+
+.custom__style {
+  overflow-y: scroll;
+}
+
+.custom__style::-webkit-scrollbar {
+  display: none;
+}
+
+.custom__modal {
+  height: 50vh;
+  background: red;
+  width: 50%;
+}
